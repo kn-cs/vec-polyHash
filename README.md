@@ -1,6 +1,6 @@
 ## Vectorised Hashing Based on Bernstein-Rabin-Winograd Polynomials over Prime Order Fields
 
-This is the source code repository of the work [Vectorised Hashing Based on Bernstein-Rabin-Winograd Polynomials over Prime Order Fields](https://eprint.iacr.org/2025/1262), authored by [Kaushik Nath](kaushik.nath@yahoo.in) & [Palash Sarkar](palash@isical.ac.in) of [Indian Statistical Institute, Kolkata, India](https://www.isical.ac.in).
+This is the source code repository of the work [Vectorised Hashing Based on Bernstein-Rabin-Winograd Polynomials over Prime Order Fields](https://eprint.iacr.org/2025/1262, https://arxiv.org/abs/2507.06490), authored by [Kaushik Nath](kaushik.nath@yahoo.in) & [Palash Sarkar](palash@isical.ac.in) of [Indian Statistical Institute, Kolkata, India](https://www.isical.ac.in).
 
 This work focuses on developing vectorised (avx2) assembly implementations of hash functions based on usual polynomials over the primes 2^{127}-1 and 2^{130}-5.
 
